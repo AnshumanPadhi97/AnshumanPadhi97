@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnshumanPadhi97
-- 👀 I’m interested in C#, C++, React
-- 🌱 I’m currently learning Clean Architecture
+- 👋 Hi, I’m Anshuman Padhi
+- 👀 I’m interested in Gen AI, LLMs, Python
+- 🌱 I’m currently working as SDE at ESCS
 - 📫 How to reach me liku1997@gmail.com
 
 <!---
