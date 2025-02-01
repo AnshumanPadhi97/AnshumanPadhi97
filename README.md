@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshuman Padhi</h1>
-<h3 align="center">A passionate frontend-backend engineer from India</h3>
+<h3 align="center">A passionate full stack engineer from India</h3>
 
-- 🌱 I’m currently learning **Gen AI, LangChain, Llama-Index**
+- 🌱 I’m currently learning **Spring Boot, Gen AI, Tauri**
 
 - 💬 Ask me about **C#, Python, Java, SQL**
 
