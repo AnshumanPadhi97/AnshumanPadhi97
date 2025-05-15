@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anshuman Padhi</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Gen AI, Tauri**
+- 🌱 I’m currently learning **Spring Boot, Generative AI**
 
-- 💬 Ask me about **C#, Python, Java, SQL**
+- 💬 Ask me about **C#, Java, Python, SQL**
 
 - 📫 How to reach me **liku1997@gmail.com**
 
